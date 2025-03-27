@@ -1,0 +1,79 @@
+🗂️ 해야 할 일 (실행 순서 및 업무 리스트)
+✅ 1단계: 사전 준비 (Pre-Planning)
+ 시장조사: 기존 경쟁 서비스 현황 분석
+
+ 데이터 확보: 최근 로또 당첨번호 (최소 100회차) 수집
+
+ 캐릭터 설정 확정: 복돼지 등 행운 관련 캐릭터 컨셉 확정
+
+ 브랜드 아이덴티티(BI) 구축 (로고, 색상, 타이포그래피)
+
+✅ 2단계: 분석 시스템 개발 (Analysis System Development)
+ 분석 모델 선정:
+
+빈도 분석, 핫/콜드 번호 분석, 머신러닝(XGBoost, Random Forest), 딥러닝(LSTM) 등
+
+ 머신러닝·딥러닝 모델 개발 및 테스트
+
+ 로또 분석 시스템 프로토타입 개발 (웹/앱 MVP 형태로 제작)
+
+✅ 3단계: 캐릭터 제작 및 콘텐츠 기획 (Character & Contents)
+ 캐릭터 디자인 및 스토리텔링 설정
+(예: 복돼지가 매주 번호를 추천하는 스토리)
+
+ 콘텐츠 포맷 확정 (인스타그램, 틱톡, 유튜브 쇼츠용 숏폼 콘텐츠 기획)
+
+ 캐릭터 기반 숏폼 영상 제작 (주기적 제작)
+
+✅ 4단계: 플랫폼 개발 (Web/App Development)
+ 도메인 확보 및 호스팅 설정 (www.lottocasts.com)
+
+ 웹사이트 개발 및 배포 (직관적인 UX/UI 반영)
+
+ 앱 개발 및 스토어 배포 (Android/iOS, React Native 추천)
+
+ 분석 결과 주기적 업데이트 시스템 구축 (자동화)
+
+✅ 5단계: SNS 마케팅 실행 (Marketing & SNS Launching)
+ SNS 채널 생성 및 세팅 (Instagram, YouTube, TikTok)
+
+ 주 2~3회 숏폼 콘텐츠 업로드 일정 수립 및 실행
+
+ 이벤트 진행 (번호 인증 및 공유 이벤트 등)
+
+ 굿즈(스티커, 키링 등) 제작 및 증정 이벤트 실시
+
+✅ 6단계: 수익화 전략 구축 및 실행 (Monetization Strategy)
+ 광고 플랫폼 연동 (Google Adsense 등)
+
+ 프리미엄 분석 유료 구독 서비스 기획 및 도입 (결제 시스템 구축)
+
+ 사용자 커뮤니티 운영 (리텐션 극대화 전략)
+
+✅ 7단계: 성과 분석 및 서비스 개선 (Analysis & Improvement)
+ 사용자 피드백 및 통계 모니터링 시스템 구축
+
+ 성과 지표 분석 후 서비스 지속적 개선 및 업데이트
+
+🔧 필요한 프로그램 & 툴 리스트 (실무)
+목적	필요한 프로그램 및 툴
+프로젝트 관리	Notion, Trello, Jira
+데이터 분석	Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), Google Colab, Jupyter Notebook
+웹사이트 개발	VSCode, React.js (추천), Next.js (SEO 최적화), Node.js
+앱 개발	React Native (멀티 플랫폼 지원), Flutter
+데이터베이스 관리	MySQL, PostgreSQL, Firebase
+디자인 및 브랜딩	Adobe Illustrator, Adobe Photoshop, Figma, Midjourney (AI 디자인)
+영상 제작 (숏폼)	Adobe Premiere Pro, CapCut
+SNS 관리	Meta Business Suite, TikTok Creator Studio
+광고 & 수익화	Google Adsense, Google Analytics, Stripe (결제 시스템)
+커뮤니케이션	Slack, Discord
+📅 간략한 프로젝트 실행 타임라인 예시 (권장)
+단계	기간
+시장조사 및 데이터 확보	1~2주
+분석 모델 개발	2~4주
+웹/앱 MVP 제작	2~3주
+캐릭터 개발 및 콘텐츠 제작	1~2주
+플랫폼 완성 및 배포	2~4주
+마케팅 론칭 & 콘텐츠 제작	상시
+수익화 및 서비스 안정화	상시
+전체 소요기간: 약 2~3개월 내외 (MVP 출시까지 기준)
